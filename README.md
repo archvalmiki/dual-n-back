@@ -1,9 +1,6 @@
 Dual-N-Back Game
 ======
 
-Forked!
-[![Netlify Status](https://api.netlify.com/api/v1/badges/33678524-5ace-49c4-a325-05af6a1a2519/deploy-status)](https://app.netlify.com/sites/dualnback/deploys)
-
 Play it online at [https://dual-n-back.io/](https://www.dual-n-back.io/).
 
 Based on the task originally proposed by [1], and adapted by [2]. Dual N-Back has been shown to improve working memory over time. For more information see [3] and [4].
